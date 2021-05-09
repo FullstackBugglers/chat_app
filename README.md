@@ -68,3 +68,5 @@ npm start
 ## To check functionality use credentials.
 ### username: shubham
 ### password: 123456
+## LINK:
+https://chat-app-kanhaiya.netlify.app/
